@@ -1,7 +1,4 @@
 # webmacro
-Change the macro button actions to sepcific websites.
-
-# webmacro
 
 This script allows you to automatically change your mouse buttons to seek forward and backward when visiting specific streaming websites, such as YouTube. When you leave the website, the script will revert the mouse buttons back to their default settings.
 
