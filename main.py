@@ -28,7 +28,7 @@ def detect_website():
     return False
 
 def run_ahk_script():
-    ahk_script_path = r"C:\Users\gsahi\Downloads\Webdetect\py ver\macro.ahk"
+    ahk_script_path = r"macro.ahk" # your script path
     
     try:
         ahk_process = subprocess.Popen(['AutoHotKey.exe', ahk_script_path])
